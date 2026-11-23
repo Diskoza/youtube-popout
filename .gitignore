@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.crx
+*.pem
+*.zip
+node_modules/
+dist/
+build/
+desktop.ini
+.vscode/
+.idea/
